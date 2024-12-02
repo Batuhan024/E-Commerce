@@ -5,7 +5,7 @@ import ProductList from '../components/ProductList'
 function Home() {
   return (
     <div>
-       <ProductList/>s
+       <ProductList/>
     </div>
   )
 }
